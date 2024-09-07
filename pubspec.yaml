@@ -39,6 +39,7 @@ dependencies:
   graphql_flutter: ^5.2.0-beta.7
   hooks_riverpod: ^2.5.2
   shared_preferences: ^2.3.2
+  dart_strapi: ^2.0.0
 
 dev_dependencies:
   flutter_test:
